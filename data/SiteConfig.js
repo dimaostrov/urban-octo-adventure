@@ -22,7 +22,7 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/Vagr9K/gatsby-material-starter",
+      url: "https://github.com/dimaostrov/urban-octo-adventurer",
       iconClassName: "fa fa-github"
     },
     {
